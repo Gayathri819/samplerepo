@@ -1,2 +1,3 @@
 This is git learning through youtube in frontent 
-Frontent in React 
+React and redux is very good
+
