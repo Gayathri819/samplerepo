@@ -1,9 +1,5 @@
 This is git learning through youtube in frontent 
-<<<<<<< HEAD
 React and redux is very good
 also learn cloud with it 
 
-=======
-Everything is cloud now. 
-All local changes should reflect conflict.
->>>>>>> 37f532ba3682d154fb90819bbbdf514c20d0e1c5
+
