@@ -1,5 +1,20 @@
-This is git learning through youtube in frontent 
-React and redux is very good
-also learn cloud with it 
+GITHUB 
+git add filename - adding the file to staging area 
+gir commit -m "feat:adding file" - ready for push to cloud repo 
+git push - pushing to cloud repo
+git pull - getting changes from cloud repo to local repo
 
-And also go with this.
+git status - to check the status 
+git diff - to check the diff between same file 
+git log -> will show you all the commits. enter - will give you more q- quit 
+git reset - from staged changes to unstaged changes
+
+BRANCHING 
+git branch - will show the current branch . Ex: main 
+git checkout -b frontend -> will create a new branch as frontend. then give git branch
+git checkout main -> will move to main branch. check it by git branch
+git add .\sample.txt 
+git commit -m 'feat:changes'
+git push origin frontend 
+git branch -M 'frontendfriend' -> -M will modifiy the current branch name to frontendfriend.
+git branch -a -> will show all the branches in cloud also
