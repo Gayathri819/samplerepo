@@ -1,3 +1,4 @@
 This is git learning through youtube in frontent 
 React and redux is very good
+also learn cloud with it 
 
